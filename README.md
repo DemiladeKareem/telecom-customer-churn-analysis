@@ -191,7 +191,7 @@ Provides a high-level view of:
 * Customer segmentation
 * Executive KPIs
 
-![Executive Dashboard](images/dashboard_page1.png)
+![Executive Dashboard](dashboard_page1.png)
 
 ---
 
@@ -204,7 +204,7 @@ Focuses on:
 * Risk segmentation
 * Retention priority lists
 
-![Customer Risk Analysis](images/dashboard_page2.png)
+![Customer Risk Analysis](dashboard_page2.png)
 
 ---
 
@@ -217,7 +217,7 @@ Examines:
 * Churn reduction drivers
 * Customer engagement patterns
 
-![Service Impact Analysis](images/dashboard_page3.png)
+![Service Impact Analysis](dashboard_page3.png)
 
 ---
 
@@ -234,7 +234,7 @@ Key capabilities include:
 
 This page transforms the dashboard from a descriptive reporting solution into a strategic planning tool by allowing decision-makers to estimate the financial impact of retention initiatives before implementation.
 
-![Revenue Optimization Simulator](images/dashboard_page4.png)
+![Revenue Optimization Simulator](dashboard_page4.png)
 
 ---
 
