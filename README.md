@@ -1,5 +1,6 @@
+<p align="center">
 # Telecom Churn Analytics
-
+<p align="center">
 ### Drivers, Customer Risk & Retention Opportunities
 
 <p align="center">
